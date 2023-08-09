@@ -1,1 +1,1 @@
-Collection of LeetCode questions to ace the coding interview!
+Comprehensive Compilation of GeeksforGeeks Practice Questions for Excelling in Coding Interviews!
